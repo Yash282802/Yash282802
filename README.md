@@ -1,20 +1,15 @@
-## 👋 Hi, I'm Yash
+👋 Hello, this is Yash.
+As a developer, my goal is to create tangible, useful goods rather than merely write code.
 
-I'm a developer who focuses on building real, usable products — not just writing code.
+In addition to working with web technologies and C/C++, I'm currently investigating Python and AI-based solutions. I employ cutting-edge AI-assisted techniques to expedite development and transform concepts into functional apps.
 
-I work with C/C++, web technologies, and I'm currently exploring Python and AI-based systems. I use modern AI-assisted tools to speed up development and turn ideas into working applications.
+🚀 What I do
+Create dashboards, automation tools, and web applications.
+Prioritize a simple user interface and useful features.
+Use DSA (problem-solving) in practical projects 🧠 At the moment:
+Enhancing Algorithms and Data Structures
+Constructing projects that integrate development and logic
+Investigating AI and backend apps Objective:
+to develop into a good software engineer by creating systems that genuinely address issues.
 
-### 🚀 What I do:
-- Build web apps, dashboards, and automation tools  
-- Focus on clean UI + practical functionality  
-- Apply problem-solving (DSA) in real-world projects  
-
-### 🧠 Currently:
-- Improving Data Structures & Algorithms  
-- Building projects that combine logic + development  
-- Exploring backend and AI applications  
-
-### ⚡ Goal:
-To become a strong software engineer by building systems that actually solve problems.
-
-📫 Reach me: ytiwari2621@gmail.com
+📫 Contact me at ytiwari2621@gmail.com.
